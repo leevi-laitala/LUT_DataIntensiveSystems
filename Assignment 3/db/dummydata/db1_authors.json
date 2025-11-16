@@ -1,0 +1,13 @@
+[
+    { "_id": 1, "name": "Alice Walker", "country": "USA" },
+    { "_id": 2, "name": "Bob Hansen", "country": "UK" },
+    { "_id": 3, "name": "Chen Li", "country": "China" },
+    { "_id": 4, "name": "Daria Sokolov", "country": "Russia" },
+    { "_id": 5, "name": "Erik Niemi", "country": "Finland" },
+    
+    { "_id": 101, "name": "DB1 Unique Author 1", "country": "USA" },
+    { "_id": 102, "name": "DB1 Unique Author 2", "country": "UK" },
+    { "_id": 103, "name": "DB1 Unique Author 3", "country": "Sweden" },
+    { "_id": 104, "name": "DB1 Unique Author 4", "country": "Norway" },
+    { "_id": 105, "name": "DB1 Unique Author 5", "country": "Germany" }
+]

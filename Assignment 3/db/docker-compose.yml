@@ -1,0 +1,17 @@
+services:
+  mongodb-1:
+    image: mongodb/mongodb-community-server:latest
+    container_name: mongodb-1
+    ports:
+      - 27017:27017
+  mongodb-2:
+    image: mongodb/mongodb-community-server:latest
+    container_name: mongodb-2
+    ports:
+      - 27018:27017
+  mongodb-3:
+    image: mongodb/mongodb-community-server:latest
+    container_name: mongodb-3
+    ports:
+      - 27019:27017
+

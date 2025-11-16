@@ -1,0 +1,13 @@
+[
+    { "_id": 200, "name": "MegaPub", "address": "Main Street 1" },
+    { "_id": 201, "name": "SmallPub", "address": "Second Street 5" },
+    { "_id": 202, "name": "Nordic Books", "address": "Northern Rd 3" },
+    { "_id": 203, "name": "AsiaPrint", "address": "East Rd 88" },
+    { "_id": 204, "name": "Universal Press", "address": "Global Ave 22" },
+    
+    { "_id": 210, "name": "DB1 Unique Publisher 1", "address": "Local A" },
+    { "_id": 211, "name": "DB1 Unique Publisher 2", "address": "Local B" },
+    { "_id": 212, "name": "DB1 Unique Publisher 3", "address": "Local C" },
+    { "_id": 213, "name": "DB1 Unique Publisher 4", "address": "Local D" },
+    { "_id": 214, "name": "DB1 Unique Publisher 5", "address": "Local E" }
+]
