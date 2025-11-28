@@ -1,0 +1,17 @@
+services:
+  database-1:
+    image: mongodb/mongodb-community-server:latest
+    container_name: database-1
+    ports:
+      - 27017:27017
+  database-2:
+    image: postgres:15.15-trixie
+    container_name: database-2
+    ports:
+      - 27018:5432
+    environment: # Bad stuff
+      - POSTGRES_DB=database
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_HOST_AUTH_METHOD=trust
+

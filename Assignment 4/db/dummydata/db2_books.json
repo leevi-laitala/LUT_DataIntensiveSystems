@@ -1,0 +1,13 @@
+[
+    { "_id": 100, "title": "The Blue Book", "authorId": 1, "publisherId": 200 },
+    { "_id": 101, "title": "Red Sun", "authorId": 2, "publisherId": 201 },
+    { "_id": 102, "title": "Cloud Peaks", "authorId": 3, "publisherId": 200 },
+    { "_id": 103, "title": "Night Voices", "authorId": 4, "publisherId": 201 },
+    { "_id": 104, "title": "Silent Lake", "authorId": 5, "publisherId": 200 },
+    
+    { "_id": 155, "title": "DB2 Unique Book 1", "authorId": 106, "publisherId": 215 },
+    { "_id": 156, "title": "DB2 Unique Book 2", "authorId": 107, "publisherId": 216 },
+    { "_id": 157, "title": "DB2 Unique Book 3", "authorId": 108, "publisherId": 217 },
+    { "_id": 158, "title": "DB2 Unique Book 4", "authorId": 109, "publisherId": 218 },
+    { "_id": 159, "title": "DB2 Unique Book 5", "authorId": 110, "publisherId": 219 }
+]

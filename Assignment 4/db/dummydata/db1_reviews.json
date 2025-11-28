@@ -1,0 +1,13 @@
+[
+    { "_id": 300, "bookId": 100, "score": 10 },
+    { "_id": 301, "bookId": 101, "score": 7 },
+    { "_id": 302, "bookId": 102, "score": 8 },
+    { "_id": 303, "bookId": 103, "score": 4 },
+    { "_id": 304, "bookId": 104, "score": 2 },
+    
+    { "_id": 350, "bookId": 150, "score": 9 },
+    { "_id": 351, "bookId": 151, "score": 7 },
+    { "_id": 352, "bookId": 152, "score": 5 },
+    { "_id": 353, "bookId": 153, "score": 7 },
+    { "_id": 354, "bookId": 154, "score": 8 }
+]
