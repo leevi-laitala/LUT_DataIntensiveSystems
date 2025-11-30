@@ -1,5 +1,5 @@
-from postgres import PostgresDatabase
-from mongodb import MongoDatabase
+from db_postgres import PostgresDatabase
+from db_mongodb import MongoDatabase
 import json
 import sys
 

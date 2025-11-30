@@ -1,5 +1,5 @@
-from mongodb import MongoDatabase
-from postgres import PostgresDatabase
+from db_mongodb import MongoDatabase
+from db_postgres import PostgresDatabase
 import db_api
 import cli
 
